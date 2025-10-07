@@ -1,0 +1,13 @@
+# Requirements for the project - pip install -r requirements.txt
+streamlit>=1.20.0
+google-generativeai>=0.2.0
+python-dotenv>=1.0.0
+langchain>=0.0.208
+chromadb>=0.3.23
+gtts>=2.3.0
+PyPDF2>=3.0.0
+watchdog>=3.0.0
+python-docx>=0.8.11
+pandas>=1.5.0
+openpyxl>=3.0.0
+xlrd>=2.0.0
